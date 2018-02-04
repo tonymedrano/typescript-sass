@@ -1,5 +1,5 @@
-# TypeScript/Webpack (typescript-project)
-Creating a TypeScript environment project for beginners (God series)
+# TypeScript/Sass/Webpack (typescript-project)
+Creating a TypeScript/Sass environment project for beginners (God series)
 
 # Setting
 npm i (install dependecies).
